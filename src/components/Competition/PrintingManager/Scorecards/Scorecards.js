@@ -15,6 +15,7 @@ import {
   downloadBlankScorecards,
 } from '../../../../logic/documents/scorecards';
 import { downloadGroupOverview } from '../../../../logic/documents/group-overview';
+import { downloadGroupCsv } from '../../../../logic/documents/group-csv';
 import {
   roundsWithoutResults,
   roundsMissingScorecards,
@@ -86,6 +87,14 @@ const Scorecards = ({ wcif }) => {
             disabled={selectedRounds.length === 0}
           >
             Group overview
+          </Button>
+        </Grid>
+        <Grid item>
+          <Button
+            onClick={() => downloadGroupCsv(wcif, selectedRounds)}
+            disabled={selectedRounds.length === 0}
+          >
+            Export groups CSV
           </Button>
         </Grid>
         <Grid item style={{ flexGrow: 1 }} />
