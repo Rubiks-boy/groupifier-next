@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e25b2dc8f03da5770f3a064b9c04500",
+    "revision": "38727048be7bf6fd12d0be143f2da793",
     "url": "/groupifier-next/index.html"
   },
   {
-    "revision": "6ad69946af189ecf04c7",
+    "revision": "2336d29f8175934f93d6",
     "url": "/groupifier-next/static/css/main.d498bfb3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/groupifier-next/static/js/2.5bd81fbd.chunk.js.LICENSE"
   },
   {
-    "revision": "6ad69946af189ecf04c7",
-    "url": "/groupifier-next/static/js/main.f707995f.chunk.js"
+    "revision": "2336d29f8175934f93d6",
+    "url": "/groupifier-next/static/js/main.b1808b5a.chunk.js"
   },
   {
     "revision": "0d8866bb902bce1747aa",
