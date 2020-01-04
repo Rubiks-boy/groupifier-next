@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/groupifier-next/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/groupifier-next/static/js/main.4b2b4c00.chunk.js",
-    "main.js.map": "/groupifier-next/static/js/main.4b2b4c00.chunk.js.map",
+    "main.js": "/groupifier-next/static/js/main.f707995f.chunk.js",
+    "main.js.map": "/groupifier-next/static/js/main.f707995f.chunk.js.map",
     "runtime-main.js": "/groupifier-next/static/js/runtime-main.5ccfcbcc.js",
     "runtime-main.js.map": "/groupifier-next/static/js/runtime-main.5ccfcbcc.js.map",
     "static/js/2.5bd81fbd.chunk.js": "/groupifier-next/static/js/2.5bd81fbd.chunk.js",
     "static/js/2.5bd81fbd.chunk.js.map": "/groupifier-next/static/js/2.5bd81fbd.chunk.js.map",
     "index.html": "/groupifier-next/index.html",
-    "precache-manifest.678d527e2d4afc26ef26dfc54a2e26cd.js": "/groupifier-next/precache-manifest.678d527e2d4afc26ef26dfc54a2e26cd.js",
+    "precache-manifest.16cf1163713fe74220024d4c99179b9e.js": "/groupifier-next/precache-manifest.16cf1163713fe74220024d4c99179b9e.js",
     "service-worker.js": "/groupifier-next/service-worker.js",
     "static/css/main.d498bfb3.chunk.css.map": "/groupifier-next/static/css/main.d498bfb3.chunk.css.map",
     "static/js/2.5bd81fbd.chunk.js.LICENSE": "/groupifier-next/static/js/2.5bd81fbd.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5ccfcbcc.js",
     "static/js/2.5bd81fbd.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.4b2b4c00.chunk.js"
+    "static/js/main.f707995f.chunk.js"
   ]
 }
