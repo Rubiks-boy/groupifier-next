@@ -51,7 +51,7 @@ const Footer = () => {
     <Grid container className={classes.root}>
       <Grid item>
         <Typography variant="body2">
-          Made with <FavoriteIcon className={classes.icon} /> by{' '}
+          Made With <FavoriteIcon className={classes.icon} /> by{' '}
           <Link
             className={classes.link}
             href="https://github.com/jonatanklosko"
